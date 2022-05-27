@@ -4,6 +4,7 @@ RENCANA KONTEN HBP
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Framweork
  * Laravel

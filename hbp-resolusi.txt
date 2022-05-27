@@ -2,4 +2,4 @@ HBP RESOLUSI
 - Konsisten untuk belajar 2x seminggu
 - Belajar React JS
 - bla bla bla
-- Membuat Website dengan React JS
+- Membuat vlog

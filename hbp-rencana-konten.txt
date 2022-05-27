@@ -1,0 +1,8 @@
+RENCANA KONTEN HBP
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framweork
+- Interview
+- Vlog

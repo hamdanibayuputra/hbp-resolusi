@@ -3,6 +3,7 @@ RENCANA KONTEN HBP
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP Framweork
 - Interview
 - Vlog

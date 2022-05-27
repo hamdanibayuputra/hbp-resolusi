@@ -3,7 +3,11 @@ RENCANA KONTEN HBP
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Framweork
+ * Laravel
 - Interview
 - Vlog
+- Python
